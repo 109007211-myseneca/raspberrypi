@@ -17,3 +17,6 @@ If you have MySQL issues try this:
 
 in sudo nano /etc/mysql/my.cnf:
 port = 3306
+
+
+[Dashboard](http://localhost:9005/iot-failure-seneca.html?topic=iot-preprocess2,iot-preprocess&offset=-1&groupid=&rollbackoffset=500&topictype=prediction&append=0&secure=1)
